@@ -1,1 +1,1 @@
-
+showadmincmds()
